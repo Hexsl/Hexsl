@@ -16,7 +16,7 @@ In the event you need to contact me for whatever reason outside of GitHub (and I
 -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hexsl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hex" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hexsl&show_icons=true&locale=en&theme=tokyonight" alt="Hex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hexsl&theme=tokyonight" alt="Hex" /></p>
