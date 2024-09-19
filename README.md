@@ -1,7 +1,3 @@
-# **Welcome!**
-
-Hi there, and welcome to my GitHub profile! I'm Hex, and I am currently a high school senior, intending to pursue a B.S. in CompSci post-graduation. Interests include computer programming (Python, Java, Web, et al), networking infrastructure/information systems, UNIX-based systems architecture, CAD, robotics, and infosec. I'm a volunteer sysadmin and client server owner for synIRC, and a veteran on a local FRC robotics team. Of note, "Avery" is a name I go by online. In the event that you require my legal name for BUSINESS or LEGAL reasons only, please email me under a professional domain. 
-
 ## **Contact**
 
 In the event you need to contact me for whatever reason outside of GitHub (and I ask this only be done for professional and/or emergency matters), you can get in touch with me via the following:
