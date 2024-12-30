@@ -5,7 +5,6 @@ In the event you need to contact me for whatever reason outside of GitHub (and I
 * **Email:** me@hexick.com
 * **IRC [(irc.synirc.net)](https://synirc.net):** Nick - Hex
 * **Discord:** Hexick#0001
-* **Twitter:** [@Hexsl](https://twitter.com/hexsl)
 
 <!-- Remember to make a Wakatime profile bfore implementing this.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hexsl&theme=tokyonight" alt=:Hex" /></p>
